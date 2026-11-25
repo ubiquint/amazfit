@@ -128,6 +128,22 @@
       "zip": "encryption/encryption-active2.zip",
       "qr_text": "zpkd1://ubiquint.github.io/amazfit/encryption/encryption-active2.zip",
       "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "family_times_album",
+      "title": "Family Times Album",
+      "description": "Il giornale di famiglia con 5 foto: a ogni alzata del polso (o toccando la foto) la pagina si gira e appare la successiva. Meteo, ora, calorie, battito, passi e batteria cliccabili.",
+      "zip": "family_times_album/family_times_album-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_times_album/family_times_album-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "family_polaroid_album",
+      "title": "Family Polaroid Album",
+      "description": "Un mazzo di 5 polaroid: a ogni alzata del polso (o toccando la foto) quella sopra vola via e appare la successiva. Ora grande e dati cliccabili.",
+      "zip": "family_polaroid_album/family_polaroid_album-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_polaroid_album/family_polaroid_album-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
     }
   ]
 }
