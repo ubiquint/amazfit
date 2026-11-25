@@ -1,0 +1,13 @@
+{
+  "base_url": "https://ubiquint.github.io/amazfit",
+  "faces": [
+    {
+      "slug": "cruscotto",
+      "title": "Cruscotto",
+      "description": "Digitale interattivo: tocca meteo, ora, passi, battito, calorie o batteria per aprire la rispettiva app. Data in italiano, archi obiettivo passi/calorie, AOD.",
+      "zip": "cruscotto/cruscotto-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/cruscotto/cruscotto-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    }
+  ]
+}
