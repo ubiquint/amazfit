@@ -32,6 +32,38 @@
       "zip": "lavanda/lavanda-active2.zip",
       "qr_text": "zpkd1://ubiquint.github.io/amazfit/lavanda/lavanda-active2.zip",
       "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "orbita",
+      "title": "Orbita",
+      "description": "Sistema solare: la Terra segna le ore, Saturno i minuti, una cometa i secondi. Tocca passi, battito, batteria, meteo o l'ora.",
+      "zip": "orbita/orbita-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/orbita/orbita-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "bauhaus",
+      "title": "Bauhaus",
+      "description": "Composizione geometrica Bauhaus: ore nel cerchio rosso, minuti in nero. Tocca passi, battito, meteo, batteria o l'ora.",
+      "zip": "bauhaus/bauhaus-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/bauhaus/bauhaus-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "carbonio",
+      "title": "Carbonio",
+      "description": "Cronografo in fibra di carbonio con indici luminescenti e tre contatori. Tocca passi, batteria, calorie, meteo o il marchio.",
+      "zip": "carbonio/carbonio-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/carbonio/carbonio-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "synthwave",
+      "title": "Synthwave",
+      "description": "Tramonto retrò anni '80 con sole a strisce, griglia al neon e ora cromata. Tocca meteo, ora, passi, battito, calorie o batteria.",
+      "zip": "synthwave/synthwave-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/synthwave/synthwave-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
     }
   ]
 }
