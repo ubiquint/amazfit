@@ -112,6 +112,14 @@
       "zip": "family_polaroid/family_polaroid-active2.zip",
       "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_polaroid/family_polaroid-active2.zip",
       "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "acciaio",
+      "title": "Acciaio",
+      "description": "Emblema in acciaio cromato su roccia scura, fascio di luce e archi azzurri per passi e calorie. Tocca i dati per aprire l'app.",
+      "zip": "acciaio/acciaio-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/acciaio/acciaio-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
     }
   ]
 }
