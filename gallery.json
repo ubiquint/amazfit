@@ -80,6 +80,38 @@
       "zip": "family_modern/family_modern-active2.zip",
       "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_modern/family_modern-active2.zip",
       "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "family_vetro",
+      "title": "Family Vetro",
+      "description": "Foto a tutto schermo, ora grande e quattro dati leggibili su vetro scuro. Tocca i dati per aprire l'app.",
+      "zip": "family_vetro/family_vetro-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_vetro/family_vetro-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "family_diviso",
+      "title": "Family Diviso",
+      "description": "Foto in alto, pannello scuro con ora, meteo, batteria e tre dati grandi. Tocca i dati per aprire l'app.",
+      "zip": "family_diviso/family_diviso-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_diviso/family_diviso-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "family_anello",
+      "title": "Family Anello",
+      "description": "Foto in un cerchio con l'anello dei passi, ora in alto e dati grandi ai lati. Tocca i dati per aprire l'app.",
+      "zip": "family_anello/family_anello-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_anello/family_anello-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "family_polaroid",
+      "title": "Family Polaroid",
+      "description": "La foto come polaroid con la scritta Family, ora grande e dati ai lati. Tocca i dati per aprire l'app.",
+      "zip": "family_polaroid/family_polaroid-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_polaroid/family_polaroid-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
     }
   ]
 }
