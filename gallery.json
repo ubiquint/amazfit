@@ -112,6 +112,22 @@
       "zip": "family_polaroid/family_polaroid-active2.zip",
       "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_polaroid/family_polaroid-active2.zip",
       "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "firewall",
+      "title": "Firewall",
+      "description": "Terminale di sicurezza con radar animato, cursore e LIVE lampeggianti; livello minaccia legato allo stress, meteo, bpm, passi, kcal e batteria cliccabili.",
+      "zip": "firewall/firewall-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/firewall/firewall-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "encryption",
+      "title": "Encryption",
+      "description": "Zero trust neon: lucchetto che pulsa, binari che scorrono, impronta con scansione; meteo, bpm, kcal, passi e batteria cliccabili.",
+      "zip": "encryption/encryption-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/encryption/encryption-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
     }
   ]
 }
