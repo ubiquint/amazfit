@@ -8,6 +8,30 @@
       "zip": "cruscotto/cruscotto-active2.zip",
       "qr_text": "zpkd1://ubiquint.github.io/amazfit/cruscotto/cruscotto-active2.zip",
       "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "sentiero",
+      "title": "Sentiero",
+      "description": "Paesaggio illustrato con sole, colline e il sentiero dei passi. Tocca meteo, ora, calorie, battito, passi o batteria.",
+      "zip": "sentiero/sentiero-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/sentiero/sentiero-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "neon",
+      "title": "Neon",
+      "description": "Analogico su nero con bande sfumate e tre quadranti per passi, batteria e calorie. Tocca i dati per aprire l'app.",
+      "zip": "neon/neon-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/neon/neon-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "lavanda",
+      "title": "Lavanda",
+      "description": "Analogico lavanda con anelli di passi e calorie, ora digitale e meteo. Tocca i dati per aprire l'app.",
+      "zip": "lavanda/lavanda-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/lavanda/lavanda-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
     }
   ]
 }
