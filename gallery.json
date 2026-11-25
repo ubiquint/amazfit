@@ -64,6 +64,22 @@
       "zip": "synthwave/synthwave-active2.zip",
       "qr_text": "zpkd1://ubiquint.github.io/amazfit/synthwave/synthwave-active2.zip",
       "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "family_times",
+      "title": "Family Times",
+      "description": "Prima pagina d'epoca con la foto di famiglia: testata gotica, carta invecchiata. Tocca meteo, ora, calorie, battito, passi o batteria.",
+      "zip": "family_times/family_times-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_times/family_times-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
+    },
+    {
+      "slug": "family_modern",
+      "title": "Family",
+      "description": "Foto di famiglia a tutto schermo con ora, data e dati su vetro scuro. Tocca meteo, passi, battito, calorie, ora o batteria.",
+      "zip": "family_modern/family_modern-active2.zip",
+      "qr_text": "zpkd1://ubiquint.github.io/amazfit/family_modern/family_modern-active2.zip",
+      "device": "Amazfit Active 2 (rotondo)"
     }
   ]
 }
